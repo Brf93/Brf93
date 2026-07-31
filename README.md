@@ -46,7 +46,7 @@ This GitHub space is where I centralize my experiments, personal projects, and p
 <!-- CAJA DE CONTACTO INGLÉS -->
 <table align="center">
   <tr>
-    <td align="center" valign="middle"><p align="center"><sub style="font-size: 14px;"><b>Hit me up! (☞ﾟ∀ﾟ)☞</b></sub>&nbsp;&nbsp;<a href="mailto:421562@tecnicatura.frc.utn.edu.ar"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="center" /></a>&nbsp;<a href="https://linkedin.com/in/franco-brizzio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a></p></td>
+    <td align="center" valign="middle"><p align="center"><b>Hit me up! (☞ﾟ∀ﾟ)☞</b></sub>&nbsp;&nbsp;<a href="mailto:421562@tecnicatura.frc.utn.edu.ar"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="center" /></a>&nbsp;<a href="https://linkedin.com/in/franco-brizzio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a></p></td>
   </tr>
 </table>
 
@@ -83,7 +83,7 @@ Este espacio en GitHub es donde centralizo mis experimentos, proyectos personale
 <!-- CAJA DE CONTACTO ESPAÑOL -->
 <table align="center">
   <tr>
-    <td align="center" valign="middle"><p align="center"><sub style="font-size: 14px;"><b>Contactame! (☞ﾟ∀ﾟ)☞</b></sub>&nbsp;&nbsp;<a href="mailto:421562@tecnicatura.frc.utn.edu.ar"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="center" /></a>&nbsp;<a href="https://linkedin.com/in/franco-brizzio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a></p></td>
+    <td align="center" valign="middle"><p align="center"><b>Contactame! (☞ﾟ∀ﾟ)☞</b></sub>&nbsp;&nbsp;<a href="mailto:421562@tecnicatura.frc.utn.edu.ar"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="center" /></a>&nbsp;<a href="https://linkedin.com/in/franco-brizzio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a></p></td>
   </tr>
 </table>
 
