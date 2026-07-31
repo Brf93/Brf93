@@ -66,7 +66,7 @@ This GitHub space is where I centralize my experiments, personal projects, and p
 
 ---
 
-## ─── ⋆⋅☆⋅⋆ ─── Tech Stack & Tools
+## (☞ﾟ∀ﾟ)☞ Tech Stack & Tools
 
 <div align="center">
 
