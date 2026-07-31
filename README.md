@@ -37,7 +37,7 @@ This GitHub space is where I centralize my experiments, personal projects, and p
 
 <!-- STACK IN A SINGLE ROW -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,angular,ts,postgres,mongo,redis,docker,git&theme=dark" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=linux,apple,windows,vscode,java,spring,cs,html,npm,angular,js,ts,postgres,mongo,redis,docker,raspberrypi,github,git,discord,css&theme=dark" alt="Technologies" />
 </a>
 
 <br/><br/><br/>
@@ -75,7 +75,7 @@ Este espacio en GitHub es donde centralizo mis experimentos, proyectos personale
 
 <!-- STACK EN FILA ÚNICA -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,angular,ts,postgres,mongo,redis,docker,git&theme=dark" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=linux,apple,windows,vscode,java,spring,cs,html,npm,angular,js,ts,postgres,mongo,redis,docker,raspberrypi,github,git,discord,css&theme=dark" alt="Technologies" />
 </a>
 
 <br/><br/><br/>
