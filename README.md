@@ -26,26 +26,25 @@ Este espacio en GitHub es donde centralizo mis experimentos, proyectos personale
 
 ---
 
-## (☞ﾟ∀ﾟ)☞ Stack Tecnológico & Herramientas
+## Stack Tecnológico & Herramientas (❍ᴥ❍ʋ)
 
 <div align="center">
 
 <p><i>Mi ecosistema de trabajo del día a día ⸜(｡˃ ᵕ ˂ )⸝</i></p>
 
+<!-- STACK EN FILA ÚNICA -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,angular,ts&theme=dark" alt="Lenguajes y Frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,angular,ts,postgres,mongo,redis,docker,git&theme=dark" alt="Tecnologías" />
 </a>
-<br/><br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,docker,git&theme=dark" alt="Bases de Datos y DevOps" />
-</a>
-<br/><br/>
-<a href="mailto:421562@tecnicatura.frc.utn.edu.ar">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/franco-brizzio">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+
+<br/><br/><br/>
+
+<!-- CAJA DE CONTACTO ESPAÑOL -->
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><p align="center"><sub style="font-size: 14px;"><b>Contactame! (☞ﾟ∀ﾟ)☞</b></sub>&nbsp;&nbsp;<a href="mailto:421562@tecnicatura.frc.utn.edu.ar"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="center" /></a>&nbsp;<a href="https://linkedin.com/in/franco-brizzio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a></p></td>
+  </tr>
+</table>
 
 </div>
 
@@ -66,25 +65,25 @@ This GitHub space is where I centralize my experiments, personal projects, and p
 
 ---
 
-## (☞ﾟ∀ﾟ)☞ Tech Stack & Tools
+## Tech Stack & Tools (❍ᴥ❍ʋ)
 
 <div align="center">
 
 <p><i>My day-to-day work ecosystem ⸜(｡˃ ᵕ ˂ )⸝</i></p>
 
+<!-- STACK IN A SINGLE ROW -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,angular,ts&theme=dark" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,angular,ts,postgres,mongo,redis,docker,git&theme=dark" alt="Technologies" />
 </a>
-<br/><br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mongo,redis,docker,git&theme=dark" alt="Databases and DevOps" />
-</a>
-<br/><br/>
-<a href="mailto:421562@tecnicatura.frc.utn.edu.ar">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/franco-brizzio">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+
+<br/><br/><br/>
+
+
+<!-- CAJA DE CONTACTO INGLÉS -->
+<table align="center">
+  <tr>
+    <td align="center" valign="middle"><p align="center"><sub style="font-size: 14px;"><b>Hit me up! (☞ﾟ∀ﾟ)☞</b></sub>&nbsp;&nbsp;<a href="mailto:421562@tecnicatura.frc.utn.edu.ar"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="center" /></a>&nbsp;<a href="https://linkedin.com/in/franco-brizzio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a></p></td>
+  </tr>
+</table>
 
 </div>
