@@ -1,9 +1,9 @@
 <!-- HEADER ANIMADO Y BIENVENIDA -->
 <div align="center">
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=25&duration=1200&pause=2000&center=true&width=600&lines=%3ELoading...%7C;Welcome!+%E0%BC%BC+%E3%81%A4+%E2%95%B9+%E2%95%B9+%E0%BC%BD%E3%81%A4;Franco+Brizzio+here!+(%E2%80%A2%E1%B4%97%E2%80%A2);Feel+free+to+look+around+(%5E%E2%80%BF%5E);More+projects+on+the+way...+(%E2%8C%90%E2%96%A0_%E2%96%A0);Let's+build+something!+(%E0%B8%87+%E2%80%A2%CC%80_%E2%80%A2%CC%81)%E0%B8%87" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&size=25&duration=1000&pause=1200&width=700&height=60&lines=%3E%7C;%3ELoading...%7C;%3EWelcome!+%E0%BC%BC+%E3%81%A4+%E2%95%B9+%E2%95%B9+%E0%BC%BD%E3%81%A4%7C;%3EFranco+Brizzio+here!+(%E2%80%A2%E1%B4%97%E2%80%A2)%7C;%3EFeel+free+to+look+around+(%5E%E2%80%BF%5E)%7C;%3EMore+projects+on+the+way...+(%E2%8C%90%E2%96%A0_%E2%96%A0)%7C;%3ELet's+build+something!+(%E0%B8%87+%E2%80%A2%CC%80_%E2%80%A2%CC%81)%E0%B8%87%7C" alt="Typing SVG" /></a>
   <br/> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=25&duration=1200&pause=2000&center=true&width=600&lines=%3ECargando...%7C;%C2%A1Bienvenido!+%E0%BC%BC+%E3%81%A4+%E2%95%B9+%E2%95%B9+%E0%BC%BD%E3%81%A4;Franco+Brizzio+por+ac%C3%A1+(%E2%80%A2%E1%B4%97%E2%80%A2);Si%C3%A9ntete+libre+de+explorar+mis+repos+(%5E%E2%80%BF%5E);Hay+m%C3%A1s+proyectos+en+camino...+(%E2%8C%90%E2%96%A0_%E2%96%A0);%C2%A1A+trabajar!+(%E0%B8%87+%E2%80%A2%CC%80_%E2%80%A2%CC%81)%E0%B8%87" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&size=25&duration=1000&pause=1200&width=700&height=60&lines=%3E%7C;%3ECargando...%7C;%3E%C2%A1Bienvenido!+%E0%BC%BC+%E3%81%A4+%E2%95%B9+%E2%95%B9+%E0%BC%BD%E3%81%A4%7C;%3EFranco+Brizzio+por+ac%C3%A1+(%E2%80%A2%E1%B4%97%E2%80%A2)%7C;%3ESi%C3%A9ntete+libre+de+explorar+mis+repos+(%5E%E2%80%BF%5E)%7C;%3EHay+m%C3%A1s+proyectos+en+camino...+(%E2%8C%90%E2%96%A0_%E2%96%A0)%7C;%3E%C2%A1A+trabajar!+(%E0%B8%87+%E2%80%A2%CC%80_%E2%80%A2%CC%81)%E0%B8%87%7C" alt="Typing SVG" /></a>
   <br/><br/>
   
   <!-- SELECTOR DE IDIOMA -->
