@@ -47,12 +47,3 @@ Bienvenido/a a mi espacio en GitHub, donde guardo mis pruebas, proyectos persona
 <img src="https://img.shields.io/badge/IA_Agents-000000?style=for-the-badge&logo=openai&logoColor=white" alt="IA Agents" />
 </p>
 
----
-
-## 📊 Actividad en GitHub
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Brf93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brf93&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
