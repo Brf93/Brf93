@@ -1,9 +1,9 @@
 <!-- HEADER ANIMADO Y BIENVENIDA -->
 <div align="center">
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&size=25&duration=1000&pause=1200&width=700&height=60&lines=%3E%7C;%3ELoading...%7C;%3EWelcome!+%E0%BC%BC+%E3%81%A4+%E2%95%B9+%E2%95%B9+%E0%BC%BD%E3%81%A4%7C;%3EFranco+Brizzio+here!+(%E2%80%A2%E1%B4%97%E2%80%A2)%7C;%3EFeel+free+to+look+around+(%5E%E2%80%BF%5E)%7C;%3EMore+projects+on+the+way...+(%E2%8C%90%E2%96%A0_%E2%96%A0)%7C;%3ELet's+build+something!+(%E0%B8%87+%E2%80%A2%CC%80_%E2%80%A2%CC%81)%E0%B8%87%7C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1200&width=700&height=60&v=2&lines=%3E%7C;%3ELoading...%7C;%3EWelcome!+%E0%BC%BC+%E3%81%A4+%E2%95%B9+%E2%95%B9+%E0%BC%BD%E3%81%A4%7C;%3EFranco+Brizzio+here!+(%E2%80%A2%E1%B4%97%E2%80%A2)%7C;%3EFeel+free+to+look+around+(%5E%E2%80%BF%5E)%7C;%3EMore+projects+on+the+way...+(%E2%8C%90%E2%96%A0_%E2%96%A0)%7C;%3ELet's+build+something!+(%E0%B8%87+%E2%80%A2%CC%80_%E2%80%A2%CC%81)%E0%B8%87%7C" alt="Typing SVG" /></a>
   <br/> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&size=25&duration=1000&pause=1200&width=700&height=60&lines=%3E%7C;%3ECargando...%7C;%3E%C2%A1Bienvenido!+%E0%BC%BC+%E3%81%A4+%E2%95%B9+%E2%95%B9+%E0%BC%BD%E3%81%A4%7C;%3EFranco+Brizzio+por+ac%C3%A1+(%E2%80%A2%E1%B4%97%E2%80%A2)%7C;%3ESi%C3%A9ntete+libre+de+explorar+mis+repos+(%5E%E2%80%BF%5E)%7C;%3EHay+m%C3%A1s+proyectos+en+camino...+(%E2%8C%90%E2%96%A0_%E2%96%A0)%7C;%3E%C2%A1A+trabajar!+(%E0%B8%87+%E2%80%A2%CC%80_%E2%80%A2%CC%81)%E0%B8%87%7C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1200&width=700&height=60&v=2&lines=%3E%7C;%3ECargando...%7C;%3E%C2%A1Bienvenido!+%E0%BC%BC+%E3%81%A4+%E2%95%B9+%E2%95%B9+%E0%BC%BD%E3%81%A4%7C;%3EFranco+Brizzio+por+ac%C3%A1+(%E2%80%A2%E1%B4%97%E2%80%A2)%7C;%3ESi%C3%A9ntete+libre+de+explorar+mis+repos+(%5E%E2%80%BF%5E)%7C;%3EHay+m%C3%A1s+proyectos+en+camino...+(%E2%8C%90%E2%96%A0_%E2%96%A0)%7C;%3E%C2%A1A+trabajar!+(%E0%B8%87+%E2%80%A2%CC%80_%E2%80%A2%CC%81)%E0%B8%87%7C" alt="Typing SVG" /></a>
   <br/><br/>
   
   <!-- SELECTOR DE IDIOMA -->
@@ -46,7 +46,7 @@ This GitHub space is where I centralize my experiments, personal projects, and p
 <!-- CAJA DE CONTACTO INGLÉS -->
 <table align="center">
   <tr>
-    <td align="center" valign="middle"><p align="center"><b>Hit me up! (☞ﾟ∀ﾟ)☞</b></sub>&nbsp;&nbsp;<a href="mailto:421562@tecnicatura.frc.utn.edu.ar"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="center" /></a>&nbsp;<a href="https://linkedin.com/in/franco-brizzio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a></p></td>
+    <td align="center" valign="middle"><p align="center"><b>Hit me up! (☞ﾟ∀ﾟ)☞</b>&nbsp;&nbsp;<a href="mailto:421562@tecnicatura.frc.utn.edu.ar"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="center" /></a>&nbsp;<a href="https://linkedin.com/in/franco-brizzio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a></p></td>
   </tr>
 </table>
 <!--</div>-->
@@ -83,9 +83,8 @@ Este espacio en GitHub es donde centralizo mis experimentos, proyectos personale
 <!-- CAJA DE CONTACTO ESPAÑOL -->
 <table align="center">
   <tr>
-    <td align="center" valign="middle"><p align="center"><b>Contactame! (☞ﾟ∀ﾟ)☞</b></sub>&nbsp;&nbsp;<a href="mailto:421562@tecnicatura.frc.utn.edu.ar"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="center" /></a>&nbsp;<a href="https://linkedin.com/in/franco-brizzio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a></p></td>
+    <td align="center" valign="middle"><p align="center"><b>Contactame! (☞ﾟ∀ﾟ)☞</b>&nbsp;&nbsp;<a href="mailto:421562@tecnicatura.frc.utn.edu.ar"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" align="center" /></a>&nbsp;<a href="https://linkedin.com/in/franco-brizzio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center" /></a></p></td>
   </tr>
 </table>
 
 <!--</div>-->
-</div>
